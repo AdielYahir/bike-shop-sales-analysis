@@ -1,31 +1,26 @@
 # Bike Shop Sales Analysis
 
-Business analysis of Bike Shop sales using Google Sheets and Looker Studio.
+Commercial sales analysis using Google Sheets, BigQuery SQL, and Looker Studio.
 
 ## Objective
-
-Analyze sales performance and identify key business insights through data analysis and visualization.
+Analyze sales performance, identify revenue trends, and evaluate key business metrics.
 
 ## Tools
-
 - Google Sheets
+- BigQuery SQL
 - Looker Studio
 
 ## Analysis
-
-- Data integration and cleaning
-- KPI development
-- Sales analysis by brand, store, product, category, salesperson, and city
-- Monthly sales analysis
-- Data visualization
+- Calculated gross bookings, discounts, and net bookings.
+- Analyzed revenue by year, product category, and state.
+- Developed an interactive dashboard with KPIs and visualizations.
 
 ## Key Findings
-
 - Trek generated approximately 60% of total revenue.
 - Baldwin Bikes was the highest-revenue store.
 - Mountain Bikes was the highest-revenue category.
 - April recorded the highest monthly sales.
 
-## Dashboard
 
-Interactive sales dashboard developed in Looker Studio.
+## Skills
+SQL · Data Preparation · KPI Analysis · Business Intelligence · Data Visualization
